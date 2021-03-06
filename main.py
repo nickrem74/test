@@ -1,4 +1,4 @@
 
-print("Hello World! player2")
+print("Hello World! player1")
 
 exit(0)
